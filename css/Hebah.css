@@ -1,0 +1,225 @@
+body{
+	background-color: #422E59;
+}
+.navbar{
+	height: 90px;
+}
+.navbar-brand{
+	font-size: 50px;
+	font-family: 'Shadows Into Light', cursive;
+	font-style: bold;
+	margin-left: 20px;
+	font-color: #634486;
+}
+.nav-link{
+	font-size: 25px;
+	font-family: 'Work Sans', sans-serif;
+	color: #634486;
+}
+.nav-item{
+	padding-left: 50px;
+}
+.col-sm-7{
+	margin-top: 170px;
+	color: #fff;
+}
+.col-sm-7 h2{
+	font-size: 45px;
+	font-family: 'Shadows Into Light', cursive;
+}
+.col-sm-7 p{
+	font-family: 'Shadows Into Light', cursive;
+	width: 450px;
+	margin-top: 50px;
+}
+.col-sm-5{
+	margin-top: 120px;
+}
+#flower{
+	width: 350px;
+	height: 350px;
+	border-radius: 50%;
+}
+.para{
+	margin-top: 100px;
+}
+.p{
+	margin-top: 100px;
+}
+#sun{
+	width: 100px;
+	height: 100px;
+	background-size: 50px;
+	border-radius: 70%;
+}
+.l{
+	width: 6px;
+	height: 500px;
+	background-color: #fff;
+	border-radius: 10%;
+	margin-left: 45px;
+}
+.btn1{
+	margin-top: 40px;
+	margin-left: -5px;
+	width: 10px;
+	height: 13px;
+	border-radius: 50%;
+}
+.btn2{
+	margin-top: 60px;
+	margin-left: -5px;
+	width: 10px;
+	height: 13px;
+	border-radius: 50%;
+}
+.btn3{
+	margin-top: 80px;
+	margin-left: -5px;
+	width: 10px;
+	height: 13px;
+	border-radius: 50%;
+}
+.btn4{
+	margin-top: 100px;
+	margin-left: -5px;
+	width: 10px;
+	height: 13px;
+	border-radius: 50%;
+}
+.g{
+	width: 400px;
+	height: 400px;
+	margin-top: 50px;
+	font-family: 'Shadows Into Light', cursive;
+}
+h4{
+	color: #fff;
+	font-family: 'Shadows Into Light', cursive;
+}
+.m1{
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+	margin-left: 30px;
+	margin-top: -45px;
+}
+.his1{
+	margin-left: 53px;
+	margin-top: -47px;
+}
+.m2{
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+	margin-left: -113px;
+	margin-top: -8px;
+}
+.his2{
+	margin-left: -80px;
+	margin-top: -27px;
+}
+.m3{
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+	margin-left: 30px;
+	margin-top: -45px;
+}
+.his3{
+	margin-left: 53px;
+	margin-top: -47px;
+}
+.s{
+	color: #fff;
+	font-family: 'Shadows Into Light', cursive;
+}
+.s h5{
+	margin-top: 20px;
+	font-size: 13px;
+}
+.progress-bar{
+	background-color: #FFA600;
+}
+.col-sm-6{
+	color: #fff;
+}
+.cer h2{
+	margin-left: 20px;
+}
+.cer p{
+	margin-top: 30px;
+}
+.cer{
+	color: #fff;
+	font-family: 'Shadows Into Light', cursive;
+}
+/*.contact{
+	width: 100%;
+	height: 500px;
+}*/
+.contact h2{
+	margin-bottom: 10px;
+}
+.img1{
+	width: 22px;
+	height: 22px;
+	margin-left: 20px;
+	margin-top: 55px;
+	background-color: none;
+}
+.p1{
+	font-size: 20px;
+	margin-left: -220px;
+}
+.img2{
+	width: 30px;
+	height: 30px;
+	margin-left: 20px;
+	margin-top: 50px;
+	background-color: none;
+}
+.p2{
+	font-size: 20px;
+	margin-left: -220px;
+}
+
+.img3{
+	width: 30px;
+	height: 30px;
+	margin-left: 20px;
+	margin-top: 50px;
+	background-color: none;
+}
+.p3{
+	font-size: 20px;
+	margin-left: -220px;
+}
+.img4{
+	width: 30px;
+	height: 30px;
+	margin-left: 60px;
+	margin-top: 25px;
+	background-color: #fff;
+}
+.img5{
+	width: 30px;
+	height: 30px;
+	margin-top: 20px;
+	margin-left: 10px;
+}
+.venus{
+	width: 300px;
+	height: 300px;
+	margin-top: 150px;
+	margin-left: 100px;
+	position: relative;
+}
+.venus2{
+	height: 290px;
+	width: 2px;
+	margin-top: -100px;
+	margin-left: 240px;
+	border: dashed #d5c6a3;
+	position: absolute;
+}
